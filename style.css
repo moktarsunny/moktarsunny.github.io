@@ -1,6 +1,6 @@
 h1 {
     color: rgb(48, 185, 101);
-    background: rgb(99, 60, 241)
+    background: rgb(35, 31, 51)
     color: rgb(255, 0, 0);
     background-color: rgb(0, 0, 0);
     margin: 40px;
@@ -31,14 +31,14 @@ nav ul li {
 nav ul li a {
     display: block;
     padding: 10px;
-    background-color: rgb(121, 116, 116);
-    color: rgb(0, 0, 0);
+    background-color: rgb(233, 20, 20);
+    color: rgb(233, 223, 223);
     text-decoration: none;
 }
 
 nav ul li a:hover {
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 0, 0);
+    color: rgb(63, 57, 57);
 }
 
 .pullquote {
@@ -49,4 +49,8 @@ nav ul li a:hover {
 
 #secret {
     color: red;
+}
+
+.stayup {
+    float: left;
 }
